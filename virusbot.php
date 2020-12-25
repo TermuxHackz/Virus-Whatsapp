@@ -2,7 +2,7 @@
  \ \   / (_)_ __ _   _ ___    
   \ \ / /| | '__| | | / __|     
    \ V / | | |  | |_| \__ \      
-    \_/  |_|_|   \__,_|___/   (By Ichigo )
+    \_/  |_|_|   \__,_|___/   (By Anonyminhack5 )
 
 Copy full text and send to victim
 
